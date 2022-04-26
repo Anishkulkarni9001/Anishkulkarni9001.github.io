@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Anish Kulkarni"
-  avatar           : "https://github.com/Anishkulkarni9001/Anishkulkarni9001.github.io/blob/master/files/profile.png"
+  avatar           : "files/profile.png"
   bio              : "Undergraduate Student, UCSD"
   location         : "San Diego, CA"
   employer         :
